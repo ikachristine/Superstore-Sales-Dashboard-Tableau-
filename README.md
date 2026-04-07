@@ -28,6 +28,3 @@ The dashboard highlights how changes in discount strategy and product demand inf
 
 [View on Tableau Public](https://public.tableau.com/app/profile/ika.christine.purba/viz/DashboardSuperstore_17755585971930/Dash_Summary)
 
-Preview
-
-![Dashboard Preview](images/dashboard-preview.png)
